@@ -1,0 +1,3 @@
+Solved graphics compatibility issues of the GUIs with Matlab R2015 & R2016
+Fully comented all routines
+Slight cleaning of some dead ends
